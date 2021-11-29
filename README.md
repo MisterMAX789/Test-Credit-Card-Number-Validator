@@ -27,9 +27,9 @@
 Ожидаемый результет: сгенерированные номера карт должны проходить валидацию.
 
 Фактический результат: некоторые сгенерированные номера карт не проходят валидацию.
-https://ibb.co/5BSJXZW
-https://ibb.co/8D8KVym
-https://ibb.co/p6Dny2r
-https://ibb.co/MRq6BBw
-https://ibb.co/M5HRVgK
+https://ibb.co/5BSJXZW \
+https://ibb.co/8D8KVym \
+https://ibb.co/p6Dny2r \
+https://ibb.co/MRq6BBw \
+https://ibb.co/M5HRVgK \
 Создан баг-репорт https://github.com/MisterMAX789/wello_wo/issues/2#issue-1066449327
