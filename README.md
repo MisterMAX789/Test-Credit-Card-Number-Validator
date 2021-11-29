@@ -32,4 +32,4 @@ https://ibb.co/8D8KVym \
 https://ibb.co/p6Dny2r \
 https://ibb.co/MRq6BBw \
 https://ibb.co/M5HRVgK \
-Создан баг-репорт https://github.com/MisterMAX789/wello_wo/issues/2#issue-1066449327
+Создан баг-репорт https://github.com/MisterMAX789/Test-Credit-Card-Number-Validator/issues/1#issue-1066504138
